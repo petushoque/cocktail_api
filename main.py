@@ -21,13 +21,11 @@ def get_all_cocktails():
 
 @app.get("/ingredients")
 def get_all_ingredients():
-    print('test')
     return ingredient_catalog
 
 
 @app.get("/cocktails/search")
 def search_cocktails_by_ingredients(ingredients: List[str] = Query(...)):
-    print('test!')
     input_ingredients = [ing.lower() for ing in ingredients]
     matches = []
 
