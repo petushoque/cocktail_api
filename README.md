@@ -5,16 +5,17 @@
 Swagger: https://cocktail-api-30og.onrender.com/docs#
 
 Получить список всех коктейлей:
-https://cocktail-api-30og.onrender.com/cocktails
+[/cocktails](https://cocktail-api-30og.onrender.com/cocktails)
+
 
 Получить рецепт выбранного коктейля
-https://cocktail-api-30og.onrender.com/cocktail/Bloody%20Mary
+[/cocktail/Bloody%20Mary](https://cocktail-api-30og.onrender.com/cocktail/Bloody%20Mary)
 
 Получить список всех ингредиетов:
-https://cocktail-api-30og.onrender.com/ingredients
+[/ingredients](https://cocktail-api-30og.onrender.com/ingredients)
 
 Подобрать коктейль по доступным ингредиентам:
-https://cocktail-api-30og.onrender.com/cocktails/search?ingredients=Vodka
+[/cocktails/search?ingredients=Vodka](https://cocktail-api-30og.onrender.com/cocktails/search?ingredients=Vodka)
 
 #### Стэк:
 
